@@ -207,8 +207,6 @@ In the Directus maintainence part, there are two parts, one is to be able to mod
  	3. check the interface for all many-to-one relationships and choose a good display template
  	4. markdown field for content writing columns
 
-5. etc (if I forget sth..)
-
 ### API
 
 under construction
